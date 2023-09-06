@@ -1,3 +1,15 @@
+# Timer Based Todo
+
+User Story
+
+User can click on the “add timer” to create a new todo container. On clicking “add timer” a popup will appear, where user can add timer and tasks ( Only here the task can be added or deleted ). 
+
+On click create on the add a task popup, a new todo container appears with the timer on it.
+
+uAfter completion of tasks, user can mark the task. User cannot edit any task after its completion. 
+
+The todo list shows the running tasks and all the expired tasks in the "all" section.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
